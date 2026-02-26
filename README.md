@@ -126,11 +126,13 @@
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="35"> **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kzherdinnn&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="kzherdinnn GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kzherdinnn&theme=github_dark&show_icons=true&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kzherdinnn&theme=github_dark" alt="Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kzherdinnn&theme=github_dark" alt="Top Languages by Repo" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzherdinnn&theme=github_dark" alt="Top Languages by Commit" width="32%" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzherdinnn&theme=github_dark" alt="Profile Details" width="66%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="32%" />
 </p>
 
 ---
