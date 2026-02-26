@@ -31,26 +31,23 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Connect With Me**
 
 <p align="left">
-  <a href="https://wa.me/6285691178685" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
-  </a>
   <a href="https://www.instagram.com/_kzherdinnn/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@_kzherdinnn" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/tiktok" alt="tiktok" height="30" width="40" />
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://github.com/kzherdinnn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linktree-kzherdin.onesite.my.id/" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/linktree/43E660" alt="linktree" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://www.kzherdin.onesite.my.id/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="portfolio" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://saweria.co/kzherdinnn" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/saweria/F07623" alt="saweria" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Saweria-F07623?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Saweria"/>
   </a>
 </p>
 
