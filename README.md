@@ -31,14 +31,26 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Connect With Me**
 
 <p align="left">
+  <a href="https://wa.me/6285691178685" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_kzherdinnn/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.tiktok.com/@_kzherdinnn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" />
+  </a>
   <a href="https://github.com/kzherdinnn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kzherdinnn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
   <a href="https://linktree-kzherdin.onesite.my.id/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" alt="linktree" height="30" width="40" />
   </a>
   <a href="https://www.kzherdin.onesite.my.id/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="portfolio" height="30" width="40" />
+  </a>
+  <a href="https://saweria.co/kzherdinnn" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/saweria/F07623" alt="saweria" height="30" width="40" />
   </a>
 </p>
 
