@@ -38,13 +38,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@_kzherdinnn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/tiktok" alt="tiktok" height="30" width="40" />
   </a>
   <a href="https://github.com/kzherdinnn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
   <a href="https://linktree-kzherdin.onesite.my.id/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linktree/linktree-icon.svg" alt="linktree" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/linktree/43E660" alt="linktree" height="30" width="40" />
   </a>
   <a href="https://www.kzherdin.onesite.my.id/" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="portfolio" height="30" width="40" />
