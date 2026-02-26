@@ -125,10 +125,13 @@
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="35"> **GitHub Stats**
 
-<div style="display:flex; flex-direction:row; justify-content:flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=kzherdinnn&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="My GitHub stats" />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=kzherdinnn&theme=github_dark&show_icons=true&layout=compact&langs_count=8&cache_seconds=1800" alt="My GitHub stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kzherdinnn&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="kzherdinnn GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kzherdinnn&theme=github_dark&show_icons=true&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" width="41%" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
 
 ---
 
@@ -140,19 +143,21 @@
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,11,20"/>
