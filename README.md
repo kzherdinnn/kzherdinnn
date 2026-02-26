@@ -126,18 +126,18 @@
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="35"> **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kzherdinnn&theme=github_dark" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kzherdinnn&theme=github_dark" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kzherdinnn&theme=github_dark" alt="Stats" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kzherdinnn&theme=github_dark" alt="Top Lang by Repo" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzherdinnn&theme=github_dark" alt="Top Languages by Commit" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzherdinnn&theme=github_dark&utcOffset=7" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzherdinnn&theme=github_dark" alt="Top Lang by Commit" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzherdinnn&theme=github_dark&utcOffset=7" alt="Productive Time" width="45%" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="92%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzherdinnn&theme=github_dark" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzherdinnn&theme=github_dark" alt="Profile Details" width="92%" />
 </p>
 
 ---
