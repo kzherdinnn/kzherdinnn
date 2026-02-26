@@ -144,20 +144,7 @@
 ---
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/kzherdinnn/kzherdinnn/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kzherdinnn&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6,11,20"/>
