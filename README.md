@@ -131,7 +131,10 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzherdinnn&theme=github_dark" alt="Top Languages by Commit" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzherdinnn&theme=github_dark&utcOffset=7" alt="Productive Time" width="49%" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzherdinnn&theme=github_dark" alt="Profile Details" width="100%" />
