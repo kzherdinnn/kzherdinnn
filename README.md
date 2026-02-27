@@ -6,7 +6,7 @@
 
 **Informatics Engineering student at UIN Sunan Gunung Djati Bandung with a strong passion for mobile and web development. I enjoy building functional Android apps and full-stack web solutions using Kotlin, Laravel, and React. Always eager to learn new technologies and take on new challenges. Currently expanding my knowledge into Machine Learning to build smarter, more impactful applications.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kzherdinnn&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kzherdinnn&label=Profile%20views&color=0e75b6&style=flat&base=3000" alt="profile-views" /> </p>
 
 ---
 
