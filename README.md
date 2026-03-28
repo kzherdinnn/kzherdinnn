@@ -136,7 +136,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzherdinnn&theme=github_dark&utcOffset=7" alt="Productive Time" width="38%" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=kzherdinnn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzherdinnn&theme=github_dark" alt="Profile Details" width="75%" />
