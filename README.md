@@ -16,8 +16,8 @@
 
 - 🎓 **Informatics Engineering '22** at **UIN Sunan Gunung Djati Bandung**
 - 📍 Bandung, Jawa Barat, Indonesia
-- 🌐 Portfolio: **[kzherdin.onesite.my.id](https://www.kzherdin.onesite.my.id/)**
-- 🔗 Links: **[linktree-kzherdin.onesite.my.id](https://linktree-kzherdin.onesite.my.id/)**
+- 🌐 Portfolio: **[kzherdin.my.id](https://kzherdin.my.id/)**
+- 🔗 Links: **[linktree-kzherdin.my.id](https://linktree.kzherdin.my.id/)**
 - 💼 Open to work & collaboration
 - 🌱 Currently exploring **Full-Stack Development** & **Machine Learning**
 - ❤️ Passionate about building apps that solve real problems
@@ -39,7 +39,7 @@
   <a href="https://github.com/kzherdinnn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linktree-kzherdin.onesite.my.id/" target="_blank">
+  <a href="https://linktree.kzherdin.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://www.kzherdin.onesite.my.id/" target="_blank">
